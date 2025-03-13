@@ -1,0 +1,249 @@
+CLAMODUL,NOMBRE,DESCRIPCIO,OLDNAME
+2,WCLIENTES,Clientes,CLIENTES
+3,WPROVEEDO,Proveedores,PROVEEDORES
+4,WCONTACTOS,Contactos,CLIENTES
+5,WHISTORY,Historico de accesos y modificaciones de registros.,VENTANAHISTORY
+6,WUSUARIOS,Lista de usuarios y permisos de cada usuario,USERS
+8,WFACTURA,Archivo de Facturas de Clientes,FACTURA
+9,WTPV,TPV,TPV
+10,WLIQUIDA,Liquidaciones de comisiones,LIQUIDA
+11,WARTICULO,Artículos,ARTICULO
+12,WAGENTES,Archivo de Agentes Comerciales,AGENTES
+13,WALMACEN,Archivo de almacenes,ALMACENES
+14,WBANCOS,Cuentas de Tesorería,BANCOS
+15,WTALLAJES,Archivo de Tallajes,TALLAJES
+16,WTARIFAS,Archivo de Tarifas de Precios,TARIFAS
+17,WTRANSPOR,Agencias de Transporte,TRANSPOR
+18,WPROVIN,Provincias,CONFIG
+19,WFAMILIAS,Familias                                       ,CONFIG
+20,WFPAGO,Formas de Pago                                 ,CONFIG
+21,WTIPOSCLI,Tipos de Clientes.,CONFIG
+22,WZONAS,Archivo de Zonas,CONFIG
+23,WTIPOSIVA,Tipos de IVA,CONFIG
+24,WEMPRESAS,Archivo de Empresas,CONFIG
+25,WEJERCICIOS,Archivo de Ejercicios,CONFIG
+26,WESCANDALLO,Escandallos de Artículos,ESCANDALLO
+28,WPRESUP,Archivo de presupuestos,PRESUP
+29,WPEDIDO,Archivo de Pedidos de Clientes,PEDIDO
+30,WALBARAN,Archivo de Albaranes de Clientes,ALBARAN
+31,WPEDIDOP,Archivo de Pedidos a Proveedores,PEDIDOP
+32,WALBARAI,Archivo de Albaranes de Proveedores,ALBARAI
+33,WFACREC,Archivo de Facturas de Proveedores,FACREC
+34,WEFECTOS,Efectos a COBRAR,EFECTOS
+35,WRECIBOS,Efectos a PAGAR,RECIBOS
+36,WSEGUIMIENTO,Seguimiento de clientes,SEGUIMIENTO
+37,WEFEFACR,Efectos de factura de proveedor,EFEFACR
+39,WMARCPRO,Marcas representadas,PROVEEDORES
+40,WTOOLBUTS,Botones de barra de herramientas,
+41,TOOLBARS,Barras de herramientas,
+42,WEFEFAC,Efectos de factura,EFECTOSFAC
+43,WCLISENV,Puntos de envío,CLISENV
+44,WLLAMADAS,Llamadas a Clientes.,LLAMADAS
+45,WGASTOS,Gastos,
+46,WTIPCALLS,Tipos de Llamadas,LLAMADAS
+47,WVISITAS,Visitas a Clientes,VISITAS
+48,WTRASLADO,Traslados entre Almacenes,TRASLADO
+49,WTIPGAST,Tipos de Gasto,
+50,WORDFAC,Facturación periodica (Ordenes de Facturación),ORDFAC
+51,WHOJAS,Hojas de Fabricación,HOJAS
+53,AIG CORE LIGHT SYSTEM,AIG Core Light System,
+54,WUNIDADES,Unidades de Medida,UNIDADES
+55,WPUNTOVERDE,Embalajes del Punto Verde,
+56,WENVIOS,Relaciones de envios,ENVIOS
+57,WTPVS,Archivo de TPVS,TPVS
+58,WTARJETAS,Archivo de Tarjetas,TARJETAS
+59,WVENDEDOR,Archivo de Vendedores TPV,VENDEDOR
+60,WTALLERES,Talleres de arreglos,TALLERES
+61,WTPVTACTIL,TPV TACTIL,TPV
+62,WTIPELEM,Tipos de Elementos de Salón,TPVS
+63,WTIPPUESTO,Zonas de TPV Táctil,TPVS
+64,WORDPROD,Órdenes de Fabricación,ORDPROD
+65,WFABRICA,Entradas de Fabricación,FABRICA
+66,WPROCESOS,Procesos Productivos,PROCESOS
+67,WEXPEDIENTES,Gestión Documental - Expedientes,
+68,WTIPEXP,Tipos de Expedientes,
+69,WINVENTARIO,Registro de Inventarios,ARTICULO
+70,WDATADIR,Directorios de Datos,DATADIR
+71,WCIERRES,Cierres de Caja,CIERRES
+72,WAGENDA,Agenda de Contactos,CLIENTES
+73,WGRASTOCK,Gráfico de Existencias,
+74,WGRACRM,Gráfico de Comunicaciones con Clientes,
+75,WGRAFABRICACION,Gráficos de Ordenes de Fabricación,
+76,WGRAVENTPV,Gráfico de Ventas de TPVs,
+77,WGRAGASTOS,Gráficos de Gastos,
+78,WGRATESORERIA,Gráficos de Tesorería,
+79,WGRAVENEVO,Gráfico de Ventas,
+80,WGRACOMPRAS,Gráfico de Compras,
+81,WGRARENTAB,Gráfico de Rentabilidad,
+82,WGRAWORKLOAD,Gráfico de Carga de Trabajo,
+83,WGRAPARTES,Gráficos de Partes de Producción,
+84,WLISTPV,Listados de Ventas por TPV,LISTPV
+85,WLISRTPV,Listados de Rentabilidad por TPVs,LISRTPV
+86,WLISCIERR,Listados de cierres de TPV,LISTPV
+87,WLISTPVTACTIL,Listados de Ventas por TPV Táctil,LISTPV
+88,WEDSALON,Definición de salón,TPVS
+89,WLISTCOB,Listados de efectos a cobrar,LISTCOB
+90,WLISTPAG,Listados de efectos a pagar,LISTPAG
+91,WLISGAS,Listados de Gastos,
+92,WEXPLOTACION,Cuenta de explotación,LISRENT
+93,WLISPRE,Listados de presupuestos,LISPRE
+94,WLISPED,Listados de pedidos,LISPED
+95,WLISALB,Listados de Albaranes,LISALB
+96,WLISFAC,Listados de Facturas,LISFAC
+97,WPRINPEDP,Imprimir pedidos a proveedor,PRINPEDP
+98,WLISTCLIS,Listados de Clientes,LISTCLIS
+99,WVIEWMOVSTOCK,Ver movimientos del Artículo,ARTICULO
+100,WBACKUP,Copias de Seguridad,BACKUP
+101,WRESTORE,Asistente para restaurar copia de seguridad.,RESTORE
+102,WDEPURA,Depuración de archivos.,DEPURA
+103,WDESCONTA,Eliminación de marcas de contabilizado.,TRASCON
+104,WELIMIMAS,Eliminación masiva de datos.,ELIMIMAS
+105,WFACALB,Facturar Albarán.,FACTURA
+106,WSERVPED,Asistente para servicio de pedidos,PEDIDO
+107,WSERVPEDI,Asistente para recepción de pedidos,PEDIDOP
+108,WESTAART,Estadísticas de artículo,ARTICULO
+109,WENTRAPAG,Entrada de Pagos,RECIBOS
+110,WNEWFACREC,Nueva Factura Rectificativa,FACTURA
+111,WENTRACOB,Entrada de cobros,EFECTOS
+112,WDOCSPROV,Documentos de proveedor,PROVEEDORES
+113,WDOCSOFA,Historial de Orden de Facturación,DOCSOFA
+114,WDOCCLISCALLS,Documentos de cliente - CRM,CLIENTES
+115,WDOCSCLIS,Documentos de cliente,CLIENTES
+116,WDOCCLISSEG,Documentos de cliente - Seguimiento,CLIENTES
+117,WDELEHISTORY,Eliminar elementos del Historico de Accesos,VENTANAHISTORY
+118,WCONSERIE,Consulta de Números de Serie,ARTICULO
+119,WCOBTPV,Cobros por TPV,TPV
+120,WPROCOUT,Asistente de procesos de salida.,PROCOUT
+121,WCHPREC,Asistente para cambio de precios,CHPREC
+122,WNORMA19,Generación de Archivo en Norma 19 CSB          ,RECIBOS
+123,WGFACPER,Asistente para generación de Facturas Periodicas,
+124,WNORMA58,Generación de Archivo en Norma 58 CSB (Anticipos de crédito),RECIBOS
+125,WINFOSERGAR,Informes de Garantías,
+126,WSELMESA,Seleccione Mesa,TPV
+127,WLISEXPEDIENTES,Listados de Expedientes,
+128,WMODIFORM,Modificación de formatos de impresión,MODIFORM
+129,WPRINFAC,Imprimir Facturas,PRINFAC
+130,WPRINORDFAC,Listados de ordenes de facturacion,ORDFAC
+131,WLISTPROV,Listados de Proveedores,LISTPROVS
+132,WLISTART,Listados y etiquetas de artículos,LISTART
+133,WLISHOJFAB,Listados de Hojas de Fabricación,LISHOJFAB
+134,WPRINPRE,Imprimir presupuestos,PRINPRE
+135,WPRESUPFAB,Archivo de presupuestos con despieces.,PRESUP
+136,WPRINALB,Imprimir Albaranes,PRINALB
+137,WPRINPED,Imprimir pedidos,PRINPED
+138,WPRINALBI,Imprimir Albaranes de Proveedores,PRINALBI
+139,WPRINFACR,Imprimir Facturas Recibidas,PRINFACR
+140,WPRINSERGAR,Impresión de Etiquetas de Números de Serie,
+141,WLISTCTT,Listados de Contactos,CLIENTES
+142,WLISLLAMADAS,Listados de Llamadas,LISLLAMADAS
+143,WLISMOVI,Listado de Movimientos de Almacén,LISMOVI
+144,WLISLIQCOMI,Imprimir liquidación de comisiones,LISLIQCOMI
+145,WPRINESC,Imprimir ficha de escandallo,PRINESC
+146,WEDITELEMENTOSALON,Editar propiedades de elemento,TPVS
+147,WGRAEXPTES,Gráfico de Expedientes,
+148,WREGISTRA,Confirmación de Usuario Registrado,
+149,WPRECIOSZONASTACTIL,Precios por Zonas,TPVS
+151,WLISRENT,Listados de Rentabilidad,LISRENT
+152,WPROCIN,Asistente para procesos de Entrada,PROCIN
+153,WPRSELCLIS,Imprimir selección de clientes,PRSELCLIS
+154,WLISENV,Listado y etiquetas de envío,LISENV
+155,WREMESAS,Remesas de efectos,REMESAS
+156,WPRININV,Imprimir inventario,LISTART
+157,WLRFE,Libro Registro de Facturas Emitidas,
+158,WLISTSTRUCT,Listar Estructura,
+159,WIMPORTCG40,Importación de datos de ClassicGes 4.0,
+160,WPRINTAR,Imprimir tarifa de descuentos.,PRINTARIFAS
+161,WLRFR,Libro Registro de Facturas Recibidas,
+162,WASISCONF,Asistente de Configuración de ClassicGes 5.0,
+164,WCHPRECIVA,Asistente para cambio de precios (IVA),
+165,WPRINFTIK,Imprimir Tiket con Formato de Factura,
+166,WASISBAJAS,Asistente para bajas de artículos,
+167,WPARTES,Partes de Producción,
+169,WLISHISTORY,Listados del Registro Histórico de Accesos,
+170,WIVAFECHAS,Tipos de IVA por fechas,
+171,WCOLORES,Colores,
+172,WSELCOLOR,Seleccione color,
+175,WLISOPR,Listados de Órdenes de Fabricación,
+176,WSALIDAS,Salidas de Material,
+177,WPRRESHOJ,Imprimir resúmen de Hoja de Fabircación,
+178,WARTMODIF,Modificadores Artículos,
+179,WOPERARIO,Archivo de operarios,
+180,WNECESIDAD,Listados de necesidades,
+181,WTRABAJOS,Archivo de trabajos,
+182,WPRINTIK,Imprimir Tiket En impresora Gráfica,
+183,WPRINTRAS,Imprimir traslado de almacén,
+184,WLISVISITAS,Listados de Visitas,
+185,WLISTRAS,Listado de Traslados de Almacén,
+186,WLISTENV,Listar puntos de envío,
+187,WPRINTCIER,Imprimir Cierre de Caja,
+188,WLISPEDP,Listados de pedidos a Proveedores,
+189,WCHORDFACIVA,Asistente para cambio ordenes de facturación por cambio de IVA,
+190,WLISALBAI,Listados de albaranes de Proveedores,
+191,WLISFACR,Listados de facturas Recibidas,
+192,WPRTLABEL,Imprimir etiqueta,
+193,WLISENFAB,Listados de Entradas de Fabricación,
+195,WARREGLOS,Arreglos de Artículos,
+200,WLISENTFAB,Imprimir Entrada de Fabricación,
+202,WLISPARPRO,Listados de Partes de Producción,
+203,WPRINTCOCINA,Imprimir Tiket Cocina en impresora Gráfica,
+205,WPRINTCOB,Imprimir Cobro de TPV,
+206,WEMAILS,Cuentas de Correo Electrónico,
+210,WNORMA19_SEPA,Generación de Archivo en Norma 19 CSB SEPA,
+213,WREMESASP,Remesas de recibos,
+215,WNORMA34_SEPA,Generación de Archivo en Cuaderno 34-12 SEPA,
+216,WPRINPREFAB,Imprimir presupuestos y despieces,
+217,WEMAILHYST,Emails Enviados,
+218,WLLAMADASP,Llamadas habidas con Proveedores.,
+219,WIMPORTCG50,Importación de datos de ClassicGes 5.0,
+220,WPRINTINFOVEN,Imprimir informe de ventas,
+221,MAILTEXT,Plantillas de Email,
+222,WADMONPUBLI,Admisnistaciones Públicas,
+225,WLISORPRO,Imprimir Orden de Fabricación,
+226,WSELCOLORMAT,Seleccione color,
+227,WPRINLOTES,Informes de Garantías,
+229,WMOVILOTES,Listado de Movimientos de Nº Lotes,
+230,WLISSALMAT,Listados de Salidas de Material,
+231,WPRINTINFOVENTPV,Imprimir informe de ventas de TPV,
+232,WPRINTINFOCOM,Imprimir informe de Compras,
+242,WLISVENTPV,Listado de Vendedores de TPV,
+243,WDEVOLUCIONESTJT,Form2,
+244,WINFORMETJT,Resumen totales tarjeta,
+250,WPLANTILLAS,Archivo de Plantillas,
+251,WPAGOSTPV,Pagos por TPV,
+252,WVALESTPV,Archivo de vales de TPV,
+253,WPRINVALES,Form2,
+254,WLISTVALES,Informe de vales emitidos,
+255,WVALESCFG,Configuración vales Devolucion/Promoción,
+256,WWEBCOLORS,Web colores,
+257,WNOTICIAS,Archivo de noticias,
+260,WAJUSTES,Ajustes de la WEB,
+261,WPAG_ONLINE,Páginas de la Tienda Online,
+262,WZONASENV,Zonas de envios,
+263,WCOSTENVIO,Metodos de envio Tienda Online,
+264,WPAISES,Paises tienda Online,
+265,WUNADM,Unidades administrativas,
+266,WBANNER,Banners,
+267,WBANNERAJUSTES,Ajustes de Banners,
+268,WPLWEB,Plantillas WEB,
+269,WPAQUETECOL,Paquetes de colores,
+270,WCLIENTMSG,Mensajes de clientes,
+271,WPRINTINFOHOJ,Imprimir informe Hojas de Fabricación,
+272,WMARCAS,Archivo de Marcas/Fabricantes,
+273,WPEDIDOONLINE,Archivo de Compras de la Tienda Online,
+274,WOFERTAS,Lista de ofertas Tienda Online,
+275,WASBLOQUES,Diseño de secciones,
+276,WFOOTER,Ajustes de Pie de Pagina (Footer),
+277,WMENU_ONLINE,Menu Web,
+278,WPAGEDISTR,Archivo de distribuciones,
+279,WMONEDAS,Ventana de monedas                             ,
+280,WCARRITO,Archivo de Pedidos tienda ON LINE,
+281,WAIRFUNC,Funciones Air,
+282,WAIRSTORE,Archivo ventanas tienda online,
+283,WASCONST,Ajustes (tecnico Web),
+284,WHOMEPAGE,Configuración página principal (HOME),
+285,WPRINCARRITO,Imprimir pedidos tienda ONLINE,
+286,WAVISOLEGAL,"Textos legales de la tiena online (Términos y condiciones, Política privacidad,....)",
+288,WINFOVEN,Informe global de ventas ,
+289,WINFOVENTPV,Informe global de ventas por TPV,
+290,WINFOCOM,Informe global de compras ,
+291,WINFOHOJAS,Informe global de Hojas de Fabricación ,
